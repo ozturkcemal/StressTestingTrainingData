@@ -1,0 +1,14 @@
+        # parameters-Societal impact of each node
+        si = {'Guangdong': 8, 'Jiangsu': 6, 'Shanghai': 9, 'Yamagata': 10, 'Singapore': 5, 'Gyeonggi-Do': 4,
+              'Alabama': 2, 'Indiana': 7, 'Iowa': 4, 'Minnesota': 3, 'South Carolina': 6, 'Wisconsin': 1,
+              'Vinh Phuc': 9, 'Taiwan': 9, 'Hai Phong': 3, 'Antwerp': 4, 'Chiba': 2, 'Fukushima': 4, 'Hyogo': 2,
+              'Lamphun': 1, 'Chongqing': 5, 'Oregon': 2, 'Negeri Sembilan': 10, 'Laguna': 4, 'Metro Manila': 2,
+              'Ayutthaya': 2, 'Styria': 4, 'Mie': 10, 'Batangas': 10, 'Cavite': 4, 'Texas': 2, 'Washington': 3,
+              'Shaanxi': 4, 'Inner Mongolia': 6, 'Anhui': 7, 'Sichuan': 10, 'California': 6, 'Colorado': 1,
+              'New York': 2, 'Centre-Val de Loire': 6, 'Israel': 5, 'Andhra Pradesh': 1, 'Ho Chi Minh': 8, 'Fujian': 2,
+              'Zhejiang': 2, 'Bac Ninh': 9, 'Thuringia': 6, 'England': 8, 'Missouri': 1, 'Tamil Nadu': 2, 'Niigata': 5,
+              'Tochigi': 1, 'Aomori': 5, 'Iwate': 4, 'Miyagi': 1, 'Toyama': 8, 'Bavaria': 6, 'Saxony': 5,
+              'Carinthia': 9, 'Leinster': 4, 'Leixlip': 4, 'Portugal': 8, 'Maharashtra': 9, 'Kyoto': 8, 'Hiroshima': 4,
+              'Phnom Penh': 10, 'Vermont': 2, 'Chachoengsao': 5, 'Heredia': 6, 'Perak': 7, 'Auvergne-Rhône-Alpes': 8,
+              'Provence-Alpes-Côte dAzur': 8, 'Lombardy': 8, 'Sicily': 1, 'Malta': 3, 'Casablanca-Settat': 8,
+              'Baden-Württemberg': 4}
