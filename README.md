@@ -1,6 +1,6 @@
 These are the files used in training predictors for stress testing (TTS) and mitigation planning (TTR) models. 
 
-Live demo of the cloud platform is available at https://youtu.be/vKTRHMTPuWU
+Live demo of the cloud platform is available at [https://youtu.be/vKTRHMTPuWU](https://youtu.be/ezvBMHBW6VM)
 
 TTS-trainingData.xlsx                : Training data for TTS predictors<br>
 MitigationPlanning-trainingData.xlsx : Training data for mitigation planning predictors<br>
