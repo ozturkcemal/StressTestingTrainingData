@@ -3,3 +3,4 @@ SupplierListLocation.xlsx : List of locations for suppliers/facilities (source :
 Facility-BOM_ItemMapping.txt : Mapping nodes in BOM with facilities in SupplierListLocation
 SocietalImpactValues.txt : Societal impact values of each facility/location
 Mitigation_Scenario3.png: Mitigation planning results for scenario 3
+RankingTest: includes experiments over 31 laptop use case disruption scenarios for scenario criticality ranking test between analytical and ML models
